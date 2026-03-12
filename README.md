@@ -19,10 +19,7 @@ This application allows organizations to:
 ---
 
 ## 🎥 App Demo
-
-<div align="center">
-  <video src="screenshots/app_overview.mp4" width="300" controls></video>
-</div>
+![App Demo](https://github.com/rahulkashyap7/HRMS-Application/raw/main/screenshots/app_overview.mp4)
 
 ---
 ## 🧪 App Testing (APK)
