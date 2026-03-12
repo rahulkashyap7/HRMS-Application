@@ -20,9 +20,11 @@ This application allows organizations to:
 
 ## 🎥 App Demo
 <div align="center">
-  <video src="https://github.com/rahulkashyap7/HRMS-Application/blob/main/screenshots/app_overview.mp4?raw=true" width="400" controls>
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://drive.google.com/file/d/1z8lFtUYZ4yDNcAw173jt_eJOtNY3sf4g/view?usp=sharing">
+    <img src="screenshots/dashboard.jpg" width="400" alt="Watch Demo Video" />
+    <br />
+    <b>📺 Watch Full Demo Video on Google Drive</b>
+  </a>
 </div>
 
 ---
