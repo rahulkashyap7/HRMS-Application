@@ -19,7 +19,11 @@ This application allows organizations to:
 ---
 
 ## 🎥 App Demo
-![App Demo](https://github.com/rahulkashyap7/HRMS-Application/raw/main/screenshots/app_overview.mp4)
+<div align="center">
+  <video src="https://github.com/rahulkashyap7/HRMS-Application/blob/main/screenshots/app_overview.mp4?raw=true" width="400" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 ## 🧪 App Testing (APK)
