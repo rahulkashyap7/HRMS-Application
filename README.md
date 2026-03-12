@@ -20,11 +20,9 @@ This application allows organizations to:
 
 ## 🎥 App Demo
 <div align="center">
-  <a href="https://drive.google.com/file/d/1z8lFtUYZ4yDNcAw173jt_eJOtNY3sf4g/view?usp=sharing">
-    <img src="screenshots/dashboard.jpg" width="400" alt="Watch Demo Video" />
-    <br />
-    <b>📺 Watch Full Demo Video on Google Drive</b>
-  </a>
+  <video src="screenshots/app_overview.mp4" width="450" autoplay muted loop playsinline>
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ---
